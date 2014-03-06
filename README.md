@@ -23,7 +23,7 @@ Zarządzanie nieruchomościami:
 	- pobieranie ofert,
 	- pobieranie użytkownika
 
-5.- Projekt dostępny na stornie internetowe
+5. 	Projekt dostępny na stornie internetowe
 	- Logowanie
 
 6.	Synchronizacja danych.
