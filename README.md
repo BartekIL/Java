@@ -6,6 +6,7 @@ Zarządzanie nieruchomościami:
 - opcje wyszukiwania nieruchomości,
 - przeglądanie aktualnych ofert,
 - sortowanie wyświetlonych ofert wg kryteriów
+
 2.	Kopie zapasowe
 - export,
 - import,
