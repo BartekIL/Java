@@ -22,7 +22,7 @@ Zarządzanie nieruchomościami:
 	- pobieranie obrazków,
 	- pobieranie ofert,
 	- pobieranie użytkownika
-	- 
+
 5.- Projekt dostępny na stornie internetowe
 	- Logowanie
 
