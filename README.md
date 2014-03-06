@@ -1,6 +1,6 @@
 Java
 ====
-Zarządzanie nieruchomościami:
+Zarządzanie nieruchomościami:\n
 1.	Interface graficzny
 - przycisk dodawania nowej nieruchomości,
 - opcje wyszukiwania nieruchomości,
