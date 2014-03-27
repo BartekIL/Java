@@ -6,7 +6,7 @@ Zarządzanie nieruchomościami:
 	- przycisk dodawania nowej nieruchomości,
 	- opcje wyszukiwania nieruchomości,
 	- przeglądanie aktualnych ofert,
-	- sortowanie wyświetlonych ofert wg kryteriów
+	- sortowanie wyświetlonych ofert wg kryterii
 
 2.	Zapis/odczyt plików
 	- export kopii zapasowych,
