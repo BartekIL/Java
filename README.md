@@ -3,16 +3,16 @@ Java
 Zarządzanie nieruchomościami:
 
 1.	Interface graficzny
-	- interface graficzny
-	- wyswietlanie zdjec
-	- przegladanie budynkow
+	- menu główne +
+	- wyswietlanie zdjec +
+	- przegladanie budynkow +
 	- szukanie budynkow
 	- dodawanie budynkow
 
 2.	Zapis/odczyt plików
-	- export budynkow do plikow,
-	- import budynkow do plikow,
-	- odczyt zdjecia z pliku
+	- export budynkow do plikow, +
+	- import budynkow do plikow, +
+	- odczyt zdjecia z pliku +
 	- pobieranie zdjecia z sieci i zapisywanie do pliku
 
 3.	Wątki
@@ -22,10 +22,10 @@ Zarządzanie nieruchomościami:
 	- pobieranie plików z sieci
 
 4.	MySQL
-	- polaczenie z baza danych
-	- wprowadzanie danych
-	- pobieranie danych,
-	- zapisywanie danych
+	- polaczenie z baza danych +
+	- wprowadzanie danych +
+	- pobieranie danych, +
+	- zapisywanie danych +
 
 5. 	Socket/RMI
 	- Projekt dostępny na stronie www
