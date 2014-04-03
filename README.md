@@ -3,15 +3,16 @@ Java
 Zarządzanie nieruchomościami:
 
 1.	Interface graficzny
-	- przycisk dodawania nowej nieruchomości,
-	- opcje wyszukiwania nieruchomości,
-	- przeglądanie aktualnych ofert,
-	- sortowanie wyświetlonych ofert wg kryterii
+	- interface graficzny
+	- wyswietlanie zdjec
+	- przegladanie budynkow
+	- szukanie budynkow
+	- dodawanie budynkow
 
 2.	Zapis/odczyt plików
-	- export kopii zapasowych,
-	- import kopii zapasowych,
-	- zdjecia do aplikacji
+	- export budynkow do plikow,
+	- import budynkow do plikow,
+	- odczyt zdjecia z pliku
 	- pobieranie zdjecia z sieci i zapisywanie do pliku
 
 3.	Wątki
