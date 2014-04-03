@@ -22,9 +22,9 @@ Zarządzanie nieruchomościami:
 	- pobieranie plików z sieci
 
 4.	MySQL
-	- pobieranie obrazków,
-	- pobieranie ofert,
-	- pobieranie użytkownika
+	- polaczenie z baza danych
+	- wprowadzanie danych
+	- pobieranie danych,
 	- zapisywanie danych
 
 5. 	Socket/RMI
