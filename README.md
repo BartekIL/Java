@@ -17,8 +17,8 @@ Zarządzanie nieruchomościami:
 	- pobieranie zdjecia z sieci +
 
 3.	Wątki
-	- podczas pobierania danych z MySQL,
-	- przechodzenia na inne strony,
+	- podczas pobierania danych z MySQL +
+	- wysyłania maila +
 	- sortowania danych,
 	- pobieranie plików z sieci
 
