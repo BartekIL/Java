@@ -19,8 +19,8 @@ Zarządzanie nieruchomościami:
 3.	Wątki
 	- podczas pobierania danych z MySQL +
 	- wysyłania maila +
-	- sortowania danych,
-	- pobieranie plików z sieci
+	- podczas usuwania danych z MySQL +
+	- podczas dodawania danych do MySQL +
 
 4.	MySQL
 	- polaczenie z baza danych +
@@ -31,6 +31,7 @@ Zarządzanie nieruchomościami:
 
 5. 	Socket/RMI
 	- pobieranie bazy danych
+	- serializacja +
 	- Logowanie +
 	- pobieranie nieruchomości z sieci
 	- połączenie klient/serwer + 
